@@ -36,7 +36,7 @@
  *		Behaviour not guaranteed for higher lengths.
  *
  *	Compile:
- *		gcc solution13.c -o solution13 -Wall -Werror -fsanitize=leak
+ *		gcc pwd.c -o pwd -Wall -Werror -fsanitize=leak
  *
  * ###########################################################################################
  */
